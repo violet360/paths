@@ -1,7 +1,7 @@
-# paths
+# Paths
 Effective visual implementation of A* and BFS algorithm:
 
-## prerequisites
+## Prerequisites
 Install python3.x and pygame
 
 ## Use
